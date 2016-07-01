@@ -1,0 +1,5 @@
+---
+applications:
+- name: paas-roadmap
+memory: 64M
+buildpack: staticfile_buildpack
