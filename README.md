@@ -6,7 +6,7 @@ This is a place for the UK government community to coordinate the development
 of new services and features for [GOV.UK Platform as a Service](https://www.cloud.service.gov.uk) (PaaS).
 
 ## The roadmap
-![roadmap](roadmap-large.png)
+[![roadmap](roadmap-large.png)](https://github.com/alphagov/paas-roadmap/projects/1?fullscreen=true)
 
 > **[View the community roadmap](https://github.com/alphagov/paas-roadmap/projects/1?fullscreen=true)**
 
