@@ -12,7 +12,7 @@ of new services and features for [GOV.UK Platform as a Service](https://www.clou
 
 [![paas roadmap qrcode](roadmap-qrcode.png)](https://github.com/alphagov/paas-roadmap/projects/1?fullscreen=true)
 
-> view the roadmap on your mobile by scanning this qrcode
+> Scan this QR code to view the roadmap on your mobile device
 
 ## Contributing to the roadmap 
 
