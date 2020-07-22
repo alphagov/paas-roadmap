@@ -22,7 +22,7 @@ You can contribute to the roadmap by:
 
 If you have questions about the roadmap itself, you can:
 - use the [#govuk-paas](https://ukgovernmentdigital.slack.com/messages/C33SAH4GJ) channel on [cross-government Slack](https://ukgovernmentdigital.slack.com/).
-- use the [support form](https://www.cloud.service.gov.uk/support/find-out-more)
+- use the [support form](https://admin.london.cloud.service.gov.uk/support/find-out-more)
 - email the GOV.UK PaaS Team at govuk-paas-support@digital.cabinet-office.gov.uk
 
 
