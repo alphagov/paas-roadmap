@@ -21,3 +21,9 @@ A clear and concise description of any solutions or features you've considered.
 
 **Additional context**
 Add any other context or screenshots about the feature request here.
+
+**Support links**
+Links to support tickets related the feature request here.
+
+**Tracker links**
+Links to Pivotal Tracker stories related the feature request here.
