@@ -22,8 +22,8 @@ A clear and concise description of any solutions or features you've considered.
 **Additional context**
 Add any other context or screenshots about the feature request here.
 
-**Support links**
+**Support links (for GOV.UK PaaS folk only)**
 Links to support tickets related the feature request here.
 
-**Tracker links**
+**Tracker links (for GOV.UK PaaS folk only)**
 Links to Pivotal Tracker stories related the feature request here.
