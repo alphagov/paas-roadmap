@@ -3,7 +3,7 @@ name: Feature request
 about: Suggest an idea for this project
 title: "[Feature Request] - "
 labels: enhancement
-assignees: emilygds, leemaahmed, LeePorte, markpeterbuckley, pauldougan
+assignees: LeePorte, markpeterbuckley, pauldougan, Jenny3020, clarebarnett
 
 ---
 
